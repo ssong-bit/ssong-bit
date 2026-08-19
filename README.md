@@ -1,2 +1,2 @@
 
-![snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg)
+![snake](https://raw.githubusercontent.com/ssong-bit/ssong-bit/output/snake.svg)
